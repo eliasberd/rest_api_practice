@@ -1,0 +1,5 @@
+-----TO INSTALL------
+
+npm init --yes
+npm i express
+npm i -g nodemon
